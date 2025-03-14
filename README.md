@@ -1,6 +1,5 @@
 # Hands-On Lets Learn Reflection AI Agent Pattern By Building It
 
-
 ## TL;DR
 I built an AI-powered onboarding assistant that guides new employees through their first days using natural language processing. The system answers HR questions using company documents, displays personalized schedules and checklists, and generates welcome emails — all through a simple command-line interface. By separating business logic from technical implementation, it’s easily adaptable to different organizations.
 
@@ -33,7 +32,7 @@ Full Article : [https://medium.com/@learn-simplified/how-i-built-agentic-employe
 ![Design Diagram](design_docs/design.png)
 
 
-# Tutorial: Let's Build a Viral TikTok Caption Generator
+# Tutorial: Hands-On Lets Learn Reflection AI Agent Pattern By Building It
 
 ## Prerequisites
 - Python installed on your system.
@@ -63,7 +62,7 @@ Full Article : [https://medium.com/@learn-simplified/how-i-built-agentic-employe
 
 **Install Project Dependencies:**
 
-Follow these steps to set up and run the  "Let's Build a Viral TikTok Caption Generator"
+Follow these steps to set up and run the  "Hands-On Lets Learn Reflection AI Agent Pattern By Building It"
 
 1. Navigate to your project directory:
    ```
@@ -78,12 +77,10 @@ Follow these steps to set up and run the  "Let's Build a Viral TikTok Caption Ge
    This command installs all the necessary Python packages listed in the requirements.txt file.
 
 
-# Run - Hands-On Guide: Let's Build a Viral TikTok Caption Generator
+# Run - Hands-On Guide: Hands-On Lets Learn Reflection AI Agent Pattern By Building It
   
    ```
-
-   streamlit run app.py
-   
+   python Main.py   
    ```
    
 ## Closing Thoughts
