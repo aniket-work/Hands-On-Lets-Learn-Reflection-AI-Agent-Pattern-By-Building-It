@@ -1,0 +1,7 @@
+models:
+  developer: "llama3-70b-8192"
+  tester: "mixtral-8x7b-32768"
+
+logging:
+  step_delay: 0.3
+  max_cycles: 5
